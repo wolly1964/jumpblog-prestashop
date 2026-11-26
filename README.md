@@ -25,10 +25,14 @@ Jump Blog writes and publishes a new article on your PrestaShop blog every day. 
 ## Installation (2 minutes)
 
 1. Create a free account at [jumpblog.com.br](https://jumpblog.com.br) and choose **Connect your site → PrestaShop**.
-2. Download the module: **[jumpblog-prestashop.zip](https://jumpblog.com.br/assets/jumpblog-prestashop.zip)**, then upload it in your back office under **Modules → Module Manager → Upload a module**.
+2. Download the module: **[jumpblog-prestashop.zip](https://github.com/wolly1964/jumpblog-prestashop/raw/main/jumpblog-prestashop.zip)** (also on [jumpblog.com.br](https://jumpblog.com.br/assets/jumpblog-prestashop.zip)), then upload it in your back office under **Modules → Module Manager → Upload a module**.
 3. Open **Jump Blog → Configure**, paste your connection code (it starts with `JB1`) and click **Connect**.
 
 That's it. Jump Blog studies your shop, finds your keywords and starts writing.
+
+## Module version
+
+Current version: **1.4.1** (PrestaShop 1.7.7 or later). The module only talks to the Jump Blog platform: it has no import from other blog services and no third-party code.
 
 ## Also available for
 
